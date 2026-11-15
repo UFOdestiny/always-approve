@@ -1,0 +1,5 @@
+{
+  "default_level": "all",
+  "projects": {},
+  "skip_tools": ["AskUserQuestion", "ExitPlanMode"]
+}

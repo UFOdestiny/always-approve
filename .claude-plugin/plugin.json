@@ -1,0 +1,10 @@
+{
+  "name": "always-approve",
+  "version": "0.1.0",
+  "description": "Configurable approval policy for Claude Code and Codex PermissionRequest hooks; approves every request by default.",
+  "author": { "name": "UFOdestiny" },
+  "homepage": "https://github.com/UFOdestiny/always-approve#readme",
+  "repository": "https://github.com/UFOdestiny/always-approve",
+  "license": "MIT",
+  "keywords": ["permissions", "hooks", "auto-approve", "codex"]
+}

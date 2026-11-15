@@ -1,0 +1,18 @@
+{
+  "name": "always-approve",
+  "version": "0.1.0",
+  "description": "Configurable approval policy for Codex PermissionRequest hooks; approves every request by default.",
+  "author": { "name": "UFOdestiny" },
+  "homepage": "https://github.com/UFOdestiny/always-approve#readme",
+  "repository": "https://github.com/UFOdestiny/always-approve",
+  "license": "MIT",
+  "interface": {
+    "displayName": "Always Approve",
+    "shortDescription": "Apply a configurable approval policy to permission requests.",
+    "longDescription": "Approves permission requests according to a configurable policy, with per-project overrides and an audit log. The default approves everything.",
+    "developerName": "UFOdestiny",
+    "category": "Productivity",
+    "capabilities": ["PermissionRequest hook"],
+    "defaultPrompt": ["Configure the Always Approve policy for this project."]
+  }
+}
